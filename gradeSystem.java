@@ -3,7 +3,6 @@ class GradeSystem1 {
     public static void main(String[] args) {
         double test1, test2, test3, averageScore;
         char letterGrade;
-
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first test score");
@@ -41,7 +40,4 @@ class GradeSystem1 {
     }
 }
 
-  // after completinng your grade calculation you are need to close main method and class
-//like this
-//  }   this is for method
-// }     this is for class
+ 
